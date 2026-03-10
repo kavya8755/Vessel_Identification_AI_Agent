@@ -28,8 +28,8 @@ cd src && python vessel_identity.py
 # Run search engine demo
 cd src && python vessel_search.py
 
-# Run conversational agent (set ANTHROPIC_API_KEY for live LLM responses)
-export ANTHROPIC_API_KEY=your_key_here
+# Run conversational agent (set GROQ_API_KEY for live LLM responses)
+export GROQ_API_KEY=your_key_here
 cd src && python vessel_agent.py
 
 # Run EDA
