@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+rapidfuzz
+networkx
+fastapi
+uvicorn
+groq
+python-dotenv
