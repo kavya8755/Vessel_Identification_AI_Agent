@@ -96,8 +96,3 @@ Example prompts inside the shell:
 
 ---
 
-## Notes
-
-- This is **not** a production system; it is a compact, illustrative POC aligned with the case study instructions.
-- The conversational behavior is implemented as deterministic parsing and routing logic, not a real LLM. In a real deployment, you would replace that layer with an LLM that calls into the same structured search functions.
-
