@@ -1,5 +1,6 @@
-Project structure
+## Project structure
 
+```
 vessel-identity-ai/
 │
 ├── data/
@@ -19,3 +20,5 @@ vessel-identity-ai/
 ├── requirements.txt
 ├── README.md
 └── .env
+
+```
