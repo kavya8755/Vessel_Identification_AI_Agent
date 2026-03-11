@@ -1,3 +1,5 @@
+Project structure
+
 vessel-identity-ai/
 │
 ├── data/
