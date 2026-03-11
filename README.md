@@ -82,7 +82,6 @@ Example prompts inside the shell:
 
 ## Files
 
-- `docs/case_study.pdf` – problem description and expectations.
 - `docs/dataset.csv` – sample vessel dataset used for exploration, cleaning, and search.
 - `poc_vessel_identity.py` – main Python POC script:
   - Loads and cleans the dataset.
